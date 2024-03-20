@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLocaleApplication</string>
+    <string name="welcome">Welcome</string>
+</resources>
